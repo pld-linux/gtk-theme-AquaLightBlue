@@ -1,7 +1,7 @@
 %define		_theme	AquaLightBlue
 
 Summary:	Aqua Light Blue theme
-Summary(pl):	Temat Aqua Light Blue
+Summary(pl):	Motyw Aqua Light Blue
 Name:		gtk-theme-%{_theme}
 Version:	1.2.x
 Release:	1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 MacOS-like theme.
 
 %description -l pl
-Temat przypominaj±cy MacOS.
+Motyw przypominaj±cy MacOS.
 
 %prep
 %setup  -q -n %{_theme}
