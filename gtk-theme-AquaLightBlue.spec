@@ -39,4 +39,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%{_datadir}/themes/%{_theme}
+%dir %{_datadir}/themes/%{_theme}
+%{_datadir}/themes/%{_theme}/*
