@@ -8,7 +8,7 @@ Release:	2
 License:	GPL
 Group:		Themes/GTK+
 Source0:	http://download.freshmeat.net/themes/aqualightblue/aqualightblue-1.2.x.tar.gz
-# Source0-md5: 3243a5c9c500caef74e7f236487a2bf8
+# Source0-md5:	3243a5c9c500caef74e7f236487a2bf8
 URL:		http://themes.freshmeat.net/projects/aqualightblue/
 Requires:	gtk-engines
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
