@@ -4,15 +4,14 @@ Summary:	Aqua Light Blue theme
 Summary(pl):	Motyw Aqua Light Blue
 Name:		gtk-theme-%{_theme}
 Version:	1.2.x
-Release:	1
+Release:	2
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://download.freshmeat.net/themes/aqualightblue/aqualightblue-1.2.x.tar.gz
 # Source0-md5: 3243a5c9c500caef74e7f236487a2bf8
 URL:		http://themes.freshmeat.net/projects/aqualightblue/
 Requires:	gtk-engines
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
 
 %description
 MacOS-like theme.
