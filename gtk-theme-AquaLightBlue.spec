@@ -1,7 +1,7 @@
 %define		_theme	AquaLightBlue
 
 Summary:	Aqua Light Blue theme
-Summary(pl.UTF-8):   Motyw Aqua Light Blue
+Summary(pl.UTF-8):	Motyw Aqua Light Blue
 Name:		gtk-theme-%{_theme}
 Version:	1.2.x
 Release:	2
